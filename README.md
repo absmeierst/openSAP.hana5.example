@@ -1,4 +1,6 @@
 # com.sap.openSAP.hana5.example
+Initialy a copy of https://github.com/I809764/com.sap.openSAP.hana5.example
+
 openSAP HANA5 Course: Example Completed Implementation
 ================
 In this course, we will focus on the new and improved features that were introduced in SAP HANA SPS 11 and 12. Developers taking this course should be able to get up to speed quickly and begin leveraging these new features to enhance their own productivity, as well as tap into powerful new features of SAP HANA itself. Students will learn to use SAP Web IDE for SAP HANA to develop both HDI (SAP HANA Deployment Infrastructure) and XSA (SAP HANA extended application services, advanced model) based applications.
